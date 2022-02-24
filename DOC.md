@@ -1,3 +1,3 @@
-# This is a project document
+# This is a project document version 3
 # Env variable
 You can set env variables for each environment in these files such as `env.local`, `env.development`, etc ...
